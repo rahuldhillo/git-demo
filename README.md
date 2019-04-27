@@ -2,15 +2,7 @@
 
 This is the first file in this repository.
 
-##Ipsum Text 
+##Website content
 
-This is some text.
-
-##Some more Ipsum
-
-This is some more ipsum
-
-##Even some more
-
-This is the extra one
+1.index.html
 
